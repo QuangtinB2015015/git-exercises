@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-
 print("Hello world")
 print("Hello OSS Development")
 print("Hello CTU")
+
+print("Le Quang Tin")
+print("B2015015")
+print("Foss_Development_Lab3")
